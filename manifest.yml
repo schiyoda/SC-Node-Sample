@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: SC-Node-Sample
+  host: SC-Node-Sample
+  disk_quota: 1024M
